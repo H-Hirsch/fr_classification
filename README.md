@@ -1,2 +1,2 @@
 # henry-hirsch-individual-project
-final project for NLP
+predicting the significance of final rules in the Federal Register using NLP techniques
