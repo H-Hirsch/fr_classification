@@ -1,2 +1,2 @@
-# henry-hirsch-individual-project
+# fr_classification
 NLP final project
